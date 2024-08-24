@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, world! 👋
 
 - 🔭 I’m currently working on being a dad 👴
 - ⚡ [Emacs user](https://www.youtube.com/watch?v=urcL86UpqZc) ⚡
