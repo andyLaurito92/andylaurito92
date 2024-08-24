@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on being a dad 👴
-- ⚡ [Emacs user]([url](https://www.youtube.com/watch?v=urcL86UpqZc)) ⚡
+- ⚡ [Emacs user](https://www.youtube.com/watch?v=urcL86UpqZc) ⚡
 
 
 <!--
