@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on being a dad 👴
+- ⚡ [Emacs user]([url](https://www.youtube.com/watch?v=urcL86UpqZc)) ⚡
+
+
 <!--
 **andyLaurito92/andylaurito92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
