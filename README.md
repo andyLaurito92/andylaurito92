@@ -2,7 +2,6 @@
 
 - 👨‍💻 I'm Andres Laurito, you can call me Andy
 - 👀 I'm a computer scientist passionate about programming languages
-- 🔭 I’m also a dad 👴
 - ⚡ [Emacs user](https://www.youtube.com/watch?v=urcL86UpqZc) ⚡
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/andylaurito/)
 - 📚 I'm currently studying: Python and Emacs
