@@ -1,10 +1,10 @@
 ## Hello, world! 👋
 
 - 👨‍💻 I'm Andres Laurito, you can call me Andy
-- 👀 I'm a computer scientist passionate about programming languages
+- 👀 I'm a computer scientist passionate about programming languages, distributed systems, data and learning new things
 - ⚡ [Emacs user](https://www.youtube.com/watch?v=urcL86UpqZc) ⚡
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/andylaurito/)
-- 📚 I'm currently studying: Python and Emacs
+- 📚 I'm currently studying: Algorithms, data structures and Emacs
 
 [What every programmer should know](https://gist.github.com/hellerbarde/2843375)
 <!--
